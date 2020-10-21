@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1280-23E8
+
+ Directory of C:\Users\jeetesh\Desktop\Myproject
+
+10/21/2020  11:16 PM    <DIR>          .
+10/21/2020  11:16 PM    <DIR>          ..
+10/21/2020  11:16 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  386,130,460,672 bytes free
